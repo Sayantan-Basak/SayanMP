@@ -5,6 +5,7 @@ nes (22 sloc) 315 Bytes
 # Log file
 *.log
 
+.metadata/
 .settings/
 .bin/
 .classpath
